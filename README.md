@@ -1,7 +1,3 @@
-Here’s a concise **README.md** file adapted for **VisionForge**, highlighting the features of OpenAI's API in the context of your project:
-
----
-
 # VisionForge
 
 VisionForge is an AI-driven application for creating image variations and applying custom edits using OpenAI's powerful image generation capabilities. Built with Streamlit, this tool provides a seamless experience for generating alternative image versions based on prompts or existing images.
